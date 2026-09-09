@@ -119,4 +119,3 @@ total:
 ---
 
 ---
-{"id":209681577,"author":{"login":"Titor8115","id":28070513,"node_id":"MDQ6VXNlcjI4MDcwNTEz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODycqFc4Mf3yp","tag_name":"v1.0.5.2","target_commitish":"master","name":"1.0.5.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-04-01T18:26:54Z","updated_at":"2025-04-01T18:37:47Z","published_at":"2025-04-01T18:37:47Z","assets":[],"body":"Apparently encoding setting for libxml2 was missing, causing wide characters breaking in some system.\r\n\r\nthis version corrected xml encoding to UTF-8"}
