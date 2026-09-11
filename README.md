@@ -12,6 +12,18 @@ man-page inspired Markdown viewer
 x install mandown
 ```
 
+## Code insight
+
+Total: **5,170** lines of code across **31** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 4,431 | 381 | 564 | 13 |
+| CHeader | 632 | 223 | 168 | 14 |
+| Makefile | 107 | 34 | 30 | 1 |
+| Markdown | 0 | 86 | 60 | 2 |
+| Text | 0 | 25 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Titor8115/mandown>
@@ -34,21 +46,12 @@ x install mandown
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 3 | 0 |
-
-## Code size
-
-Total: **5,170** lines of code across **31** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 4,431 | 381 | 564 | 13 |
-| CHeader | 632 | 223 | 168 | 14 |
-| Makefile | 107 | 34 | 30 | 1 |
-| Markdown | 0 | 86 | 60 | 2 |
-| Text | 0 | 25 | 0 | 1 |
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last720d | 2024-09-21 | 3 | 3 | 1 | 3 | 4 | 16 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for mandown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:56:17Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:02:40Z._
