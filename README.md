@@ -36,7 +36,7 @@ Total: **5,170** lines of code across **31** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 308 · **Forks**: 15 · **Open issues**: 36 · **Contributors**: 10
+- **Stars**: 308 · **Forks**: 16 · **Open issues**: 36 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **5,170** lines of code across **31** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-07-04 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-04-05 | 0 | 0 | 2 | 0 | 3 | 0 |
-| 360d | 2025-10-07 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last720d | 2024-10-12 | 3 | 3 | 2 | 3 | 4 | 16 |
+| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-07-05 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last180d | 2026-04-06 | 0 | 0 | 2 | 0 | 3 | 0 |
+| 360d | 2025-10-08 | 0 | 0 | 2 | 0 | 3 | 0 |
+| last720d | 2024-10-13 | 3 | 3 | 2 | 3 | 4 | 16 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for mandown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:52:22Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:44:56Z._
