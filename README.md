@@ -14,14 +14,14 @@ x install mandown
 
 ## Code insight
 
-Total: **5,170** lines of code across **31** files in the top 5 languages.
+Total: **5,529** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 4,431 | 381 | 564 | 13 |
-| CHeader | 632 | 223 | 168 | 14 |
-| Makefile | 107 | 34 | 30 | 1 |
-| Markdown | 0 | 86 | 60 | 2 |
+| C | 4,751 | 400 | 595 | 13 |
+| CHeader | 665 | 231 | 170 | 14 |
+| Makefile | 113 | 34 | 31 | 1 |
+| Markdown | 0 | 121 | 68 | 2 |
 | Text | 0 | 25 | 0 | 1 |
 
 ## Source
@@ -31,27 +31,27 @@ Total: **5,170** lines of code across **31** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.5.2` (2025-04-01)
-- **Last commit**: 2026-08-04
+- **Latest**: `v1.1` (2026-10-30)
+- **Last commit**: 2026-10-30
 
 ## Popularity
 
-- **Stars**: 308 · **Forks**: 17 · **Open issues**: 36 · **Contributors**: 10
+- **Stars**: 308 · **Forks**: 17 · **Open issues**: 36 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 10 · **Open PRs**: 2 · **Closed issues**: 27 · **Open issues**: 9 · **Commits**: 127
+- **Releases**: 12 · **Merged PRs**: 12 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 8 · **Commits**: 137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last180d | 2026-05-02 | 0 | 0 | 2 | 0 | 3 | 0 |
-| 360d | 2025-11-03 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last720d | 2024-11-08 | 3 | 3 | 2 | 3 | 4 | 16 |
+| 30d | 2026-09-30 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-01 | 1 | 2 | 0 | 1 | 0 | 7 |
+| last180d | 2026-05-03 | 1 | 2 | 0 | 1 | 2 | 7 |
+| 360d | 2025-11-04 | 1 | 2 | 0 | 1 | 2 | 7 |
+| last720d | 2024-11-09 | 4 | 5 | 0 | 4 | 3 | 26 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for mandown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:04:44Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:08:47Z._
