@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Titor8115/mandown/releases/209681577",
-  "assets_url": "https://api.github.com/repos/Titor8115/mandown/releases/209681577/assets",
-  "upload_url": "https://uploads.github.com/repos/Titor8115/mandown/releases/209681577/assets{?name,label}",
-  "html_url": "https://github.com/Titor8115/mandown/releases/tag/v1.0.5.2",
-  "id": 209681577,
+  "url": "https://api.github.com/repos/Titor8115/mandown/releases/428569958",
+  "assets_url": "https://api.github.com/repos/Titor8115/mandown/releases/428569958/assets",
+  "upload_url": "https://uploads.github.com/repos/Titor8115/mandown/releases/428569958/assets{?name,label}",
+  "html_url": "https://github.com/Titor8115/mandown/releases/tag/v1.1",
+  "id": 428569958,
   "author": {
     "login": "Titor8115",
     "id": 28070513,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDODycqFc4Mf3yp",
-  "tag_name": "v1.0.5.2",
+  "node_id": "RE_kwDODycqFc4Zi3Vm",
+  "tag_name": "v1.1",
   "target_commitish": "master",
-  "name": "1.0.5.2",
+  "name": "1.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2025-04-01T18:26:54Z",
-  "updated_at": "2025-04-01T18:37:47Z",
-  "published_at": "2025-04-01T18:37:47Z",
+  "created_at": "2026-10-30T01:30:23Z",
+  "updated_at": "2026-10-30T01:45:39Z",
+  "published_at": "2026-10-30T01:45:39Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Titor8115/mandown/tarball/v1.0.5.2",
-  "zipball_url": "https://api.github.com/repos/Titor8115/mandown/zipball/v1.0.5.2",
-  "body": "Apparently encoding setting for libxml2 was missing, causing wide characters breaking in some system.\r\n\r\nthis version corrected xml encoding to UTF-8"
+  "tarball_url": "https://api.github.com/repos/Titor8115/mandown/tarball/v1.1",
+  "zipball_url": "https://api.github.com/repos/Titor8115/mandown/zipball/v1.1",
+  "body": "- Full `libconfig` implementation\r\n- User customization\r\n  - Shared settings (boolean): `color`, `background`, `bold`, `italic`, `underline`, `dim`\r\n  - h1-h6: `indent`\r\n  - code block: `indent`\r\n  - hyperlink: Shared settings\r\n  - quote block: `prefix` (char as left border for content),\r\n- Add example config file: `mdnrc`"
 }
