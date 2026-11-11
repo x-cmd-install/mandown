@@ -46,12 +46,12 @@ Total: **5,529** lines of code across **31** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-12 | 1 | 2 | 0 | 1 | 0 | 6 |
-| last180d | 2026-05-14 | 1 | 2 | 0 | 1 | 2 | 7 |
-| 360d | 2025-11-15 | 1 | 2 | 0 | 1 | 2 | 7 |
-| last720d | 2024-11-20 | 4 | 4 | 0 | 4 | 3 | 25 |
+| 30d | 2026-10-12 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-12 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-13 | 1 | 2 | 0 | 1 | 0 | 6 |
+| last180d | 2026-05-15 | 1 | 2 | 0 | 1 | 2 | 7 |
+| 360d | 2025-11-16 | 1 | 2 | 0 | 1 | 2 | 7 |
+| last720d | 2024-11-21 | 4 | 4 | 0 | 4 | 3 | 25 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for mandown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:40:59Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:45:03Z._
