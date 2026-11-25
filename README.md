@@ -14,13 +14,13 @@ x install mandown
 
 ## Code insight
 
-Total: **5,529** lines of code across **31** files in the top 5 languages.
+Total: **5,527** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 4,751 | 400 | 595 | 13 |
-| CHeader | 665 | 231 | 170 | 14 |
-| Makefile | 113 | 34 | 31 | 1 |
+| C | 4,753 | 396 | 594 | 13 |
+| CHeader | 660 | 231 | 170 | 14 |
+| Makefile | 114 | 34 | 31 | 1 |
 | Markdown | 0 | 121 | 68 | 2 |
 | Text | 0 | 25 | 0 | 1 |
 
@@ -32,26 +32,26 @@ Total: **5,529** lines of code across **31** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 309 · **Forks**: 17 · **Open issues**: 36 · **Contributors**: 12
+- **Stars**: 309 · **Forks**: 18 · **Open issues**: 36 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 12 · **Open PRs**: 1 · **Closed issues**: 28 · **Open issues**: 8 · **Commits**: 137
+- **Releases**: 12 · **Merged PRs**: 13 · **Open PRs**: 1 · **Closed issues**: 29 · **Open issues**: 7 · **Commits**: 142
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 1 | 0 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-26 | 1 | 0 | 1 | 0 | 0 | 5 |
-| last180d | 2026-05-28 | 1 | 2 | 1 | 1 | 0 | 7 |
-| 360d | 2025-11-29 | 1 | 2 | 1 | 1 | 2 | 7 |
-| last720d | 2024-12-04 | 4 | 3 | 1 | 4 | 3 | 24 |
+| 30d | 2026-10-26 | 1 | 1 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-26 | 1 | 1 | 1 | 0 | 0 | 8 |
+| 90d | 2026-08-27 | 1 | 1 | 1 | 0 | 0 | 8 |
+| last180d | 2026-05-29 | 1 | 3 | 1 | 1 | 0 | 10 |
+| 360d | 2025-11-30 | 1 | 3 | 1 | 2 | 1 | 10 |
+| last720d | 2024-12-05 | 4 | 4 | 1 | 5 | 2 | 29 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for mandown lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:58:57Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:04:18Z._
